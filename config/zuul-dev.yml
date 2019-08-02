@@ -37,5 +37,5 @@ management:
 rabbitmq:
     host: 192.168.161.132
     port: 5672
-    username: root
-    password: root
+    username: admin
+    password: admin
